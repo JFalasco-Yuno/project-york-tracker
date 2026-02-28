@@ -1,0 +1,17 @@
+export const PREWORK_INITIAL = [
+  { id: "P-01", task: "Token Exchange API 404 — resolve and document", owner: "Dashboard Eng / Andres Sanz", due: "ASAP — BLOCKING", status: "open", priority: "critical", categories: [], jiraTickets: [] },
+  { id: "P-02", task: "Step-by-step embedded integration guide + code samples", owner: "Dashboard Team / Andrea Bautista", due: "Before Mar 9", status: "open", priority: "critical", categories: [], jiraTickets: [] },
+  { id: "P-03", task: "Transaction Status Mapping doc (incl. chargeback lifecycle)", owner: "Jarrett + Bernabe / Core Eng", due: "Before Mar 9", status: "open", priority: "critical", categories: [], jiraTickets: [] },
+  { id: "P-04", task: "AI Dispute Management — integration explainer for Zuora", owner: "Carol Oppenheimer / Bernabe", due: "Before Mar 9", status: "open", priority: "high", categories: [], jiraTickets: [] },
+  { id: "P-05", task: "Embeddable component docs for Zuora UX team (Udit, Swarnim)", owner: "Andres Sanz / Dashboard", due: "Before Mar 9", status: "open", priority: "high", categories: [], jiraTickets: [] },
+  { id: "P-06", task: "22M ACH / 12-hour capacity validation with Vantiv", owner: "CoreCheckout / SalesEng", due: "Before Mar 9", status: "open", priority: "high", categories: [], jiraTickets: [] },
+  { id: "P-07", task: "Selective component embedding — engineering feasibility answer", owner: "Dashboard Eng", due: "Before Mar 9", status: "open", priority: "high", categories: [], jiraTickets: [] },
+  { id: "P-08", task: "PSP token vaulting analysis (Stripe tokens, ACH, PIX, UPI, Alipay)", owner: "CoreSecOps / Chiara", due: "Mar 14", status: "open", priority: "high", categories: [], jiraTickets: [] },
+  { id: "P-09", task: "Historical uptime actuals per processor connection", owner: "Jairo Rivero", due: "Mar 14", status: "open", priority: "medium", categories: [], jiraTickets: [] },
+  { id: "P-10", task: "Support Model doc (tiers, SLAs, escalation, KPIs)", owner: "Daniel Rebelo / Anastasia", due: "Mar 14", status: "open", priority: "medium", categories: [], jiraTickets: [] },
+  { id: "P-11", task: "Payment method type/description string solution (1,000+ methods)", owner: "Yuno CoreCheckout / Rafael Kawase", due: "Mar 14", status: "open", priority: "medium", categories: [], jiraTickets: [] },
+  { id: "P-12", task: "Roadmap prioritization process doc for partner requests", owner: "Juanma / Julie Santiago", due: "Mar 14", status: "open", priority: "medium", categories: [], jiraTickets: [] },
+  { id: "P-13", task: "White-label theming spec (colors, typography controls)", owner: "Dashboard Team / OR-633", due: "Mar 14", status: "open", priority: "high", categories: [], jiraTickets: [] },
+  { id: "P-14", task: "System email suppression / rebranding scope (OR-633)", owner: "Dashboard Team", due: "Mar 14", status: "open", priority: "medium", categories: [], jiraTickets: [] },
+  { id: "P-15", task: "Sub-account API design spec (isolated traffic + ref key)", owner: "CoreDashboard / OR-635", due: "Mar 14", status: "open", priority: "high", categories: [], jiraTickets: [] },
+];
